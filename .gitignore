@@ -2,4 +2,4 @@
 db.sqlite3
 media/
 app/migrations/
-__pucache__/
+__pycache__/
